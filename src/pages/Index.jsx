@@ -11,7 +11,7 @@ const Index = () => {
   return (
     <div className="min-h-screen bg-[#ffe6f2] bg-floral-pattern font-lato text-gray-800">
       <Header />
-      <main className="container mx-auto px-4">
+      <main>
         <HeroSection />
         <AboutUs />
         <CakeGallery />
